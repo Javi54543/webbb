@@ -1,0 +1,58 @@
+.dispositivoHardware{
+
+    margin-left: 3%; 
+    margin-right: 5%;
+    margin-top: 2%;
+    background-color: bisque;
+
+}
+
+h1{
+
+    border-style: dashed;
+    border-color: black;
+    border-radius: 3px;
+    border-width: 9px;
+    display: flex;
+    justify-content: center;
+    font-size: 60px; 
+    background-color: aquamarine;
+    
+
+}
+h2{
+    border-style: dotted;
+    width: 15%;
+    background-color: aquamarine;
+}
+
+.Titulo{
+
+    margin-left: 3%;
+    background-color: cadetblue;
+    margin-right: 5%;
+}
+
+#Portada{
+
+    margin-left: 30%;
+    background-color: black;
+    margin-top: -1%;
+}
+
+#Foto{
+ 
+    margin-left: 104%;
+    margin-top: -100%;
+}
+
+.Enumerar{
+
+
+    margin-right: 30%;
+
+}
+
+
+
+
